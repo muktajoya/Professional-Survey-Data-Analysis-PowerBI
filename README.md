@@ -11,3 +11,7 @@ Key insights include:
 * Total survey participation metrics
 
 The project demonstrates data cleaning, transformation, DAX calculations, and interactive dashboard design using Power BI.
+
+## Dashboard Preview
+![Overview](Dashboard Screenshot.jpg)
+
